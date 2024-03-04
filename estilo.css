@@ -1,3 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 body{
-    background-color: RED;
+padding: 20px;
+}
+header {
+	background:#2c3e50;
+	width:100%;
+	padding:20px;
+	display: flex;
+	justify-content:space-between;
+	align-items:center;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+
+.logo {
+	color:#fff;
+	font-size:30px;
 }
