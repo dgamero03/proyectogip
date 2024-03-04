@@ -9,7 +9,7 @@ body{
 	max-width:1000px;
 	margin:auto;
 
-	/* Flexbox */
+
 	display:flex;
 	flex-flow:row wrap;
 }
@@ -23,7 +23,7 @@ header {
 	width:100%;
 	padding:20px;
 
-	/* Flexbox */
+
 	display: flex;
 	justify-content:space-between;
 	align-items:center;
