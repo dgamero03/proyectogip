@@ -54,6 +54,20 @@ nav a:hover {
 	text-decoration: underline;
 }
 
+main{
+	padding: 20px;
+}
+main .uno{
+	margin-bottom: 20px;
+	padding-bottom:20px;
+	border-bottom:1px solid black;
+}
+
+
+
+
+
+
 footer {
 	background:#2c3e50;
 	width: 100%;
