@@ -36,22 +36,29 @@ footer {
 	display: flex;
 	flex-wrap:wrap;
 	justify-content:space-between;
+	color: #fff;
+
 }
 
-footer .RRSS {
-	background:#e67e22;
-}
+
 
 footer .RRSS {
 	color:#fff;
 	text-decoration: none;
-	padding:10px;
-	display: inline-block;
-}
+	display: flex;
+	background:#e67e22;
 
+
+}
+footer .RRSS p{
+	padding:10px;
+
+}
 
 .titulo{
     display: flex;
     flex-wrap: nowrap;
 
 }
+ 
+
